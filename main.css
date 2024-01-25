@@ -24,8 +24,9 @@ body {
 .main {
     font-family: 'prompt', sans-serif;
     line-height: 1.4;
-    padding-top: 10vh;
-    padding-left: 9%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .main h2 {
@@ -57,4 +58,8 @@ body {
     font-size: 35px;
     margin-right: 15px;
     text-decoration: none;
+}
+
+.img-circle {
+    border-radius: 50%;
 }
