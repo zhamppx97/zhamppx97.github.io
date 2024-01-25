@@ -43,7 +43,7 @@ body {
     color: white;
     font-weight: 400;
     font-size: 20px;
-    letter-spacing: 6px;
+    letter-spacing: 4px;
     padding-bottom: 10px;
 }
 
@@ -62,4 +62,12 @@ body {
 
 .img-circle {
     border-radius: 50%;
+}
+
+pre {
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 4px;
+    padding-bottom: 10px;
 }
